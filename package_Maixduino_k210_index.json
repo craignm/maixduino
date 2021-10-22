@@ -19,12 +19,24 @@
                     "archiveFileName": "Maixduino_core_v0.3.11.zip",
                     "size": "1905004",
                     "boards": [
-                        {"name": "Sipeed Maix One Dock Board"},
-                        {"name": "Sipeed Maix Bit Board"},
-                        {"name": "Sipeed Maix Bit-Mic Board"},
-                        {"name": "Sipeed Maix Go Board"},
-                        {"name": "Sipeed Maixduino Board"},
-                        {"name": "LamLoei AIoT DaaN Board"}
+                        {
+                            "name": "Sipeed Maix One Dock Board"
+                        },
+                        {
+                            "name": "Sipeed Maix Bit Board"
+                        },
+                        {
+                            "name": "Sipeed Maix Bit-Mic Board"
+                        },
+                        {
+                            "name": "Sipeed Maix Go Board"
+                        },
+                        {
+                            "name": "Sipeed Maixduino Board"
+                        },
+                        {
+                            "name": "LamLoei AIoT DaaN Board"
+                        }
                     ],
                     "toolsDependencies": [
                         {
@@ -49,11 +61,21 @@
                     "archiveFileName": "Maixduino_core_v0.3.10.zip",
                     "size": "2148256",
                     "boards": [
-                        {"name": "Sipeed Maix One Dock Board"},
-                        {"name": "Sipeed Maix Bit Board"},
-                        {"name": "Sipeed Maix Bit-Mic Board"},
-                        {"name": "Sipeed Maix Go Board"},
-                        {"name": "Sipeed Maixduino Board"}
+                        {
+                            "name": "Sipeed Maix One Dock Board"
+                        },
+                        {
+                            "name": "Sipeed Maix Bit Board"
+                        },
+                        {
+                            "name": "Sipeed Maix Bit-Mic Board"
+                        },
+                        {
+                            "name": "Sipeed Maix Go Board"
+                        },
+                        {
+                            "name": "Sipeed Maixduino Board"
+                        }
                     ],
                     "toolsDependencies": [
                         {
@@ -78,10 +100,18 @@
                     "archiveFileName": "Maixduino_core_v0.3.9.zip",
                     "size": "2148256",
                     "boards": [
-                        {"name": "Sipeed Maix One Dock Board"},
-                        {"name": "Sipeed Maix Bit Board"},
-                        {"name": "Sipeed Maix Go Board"},
-                        {"name": "Sipeed Maixduino Board"}
+                        {
+                            "name": "Sipeed Maix One Dock Board"
+                        },
+                        {
+                            "name": "Sipeed Maix Bit Board"
+                        },
+                        {
+                            "name": "Sipeed Maix Go Board"
+                        },
+                        {
+                            "name": "Sipeed Maixduino Board"
+                        }
                     ],
                     "toolsDependencies": [
                         {
@@ -106,8 +136,12 @@
                     "archiveFileName": "Maixduino_core_v0.3.8.zip",
                     "size": "2124112",
                     "boards": [
-                        {"name": "Sipeed \"Maix One Dock\"/\"Maix Bit\" Board"},
-                        {"name": "Sipeed Maix Go Board"}
+                        {
+                            "name": "Sipeed \"Maix One Dock\"/\"Maix Bit\" Board"
+                        },
+                        {
+                            "name": "Sipeed Maix Go Board"
+                        }
                     ],
                     "toolsDependencies": [
                         {
@@ -132,8 +166,12 @@
                     "archiveFileName": "Maixduino_core_v0.3.7_2.zip",
                     "size": "2140447",
                     "boards": [
-                        {"name": "Sipeed \"Maix One Dock\"/\"Maix Bit\" Board"},
-                        {"name": "Sipeed Maix Go Board"}
+                        {
+                            "name": "Sipeed \"Maix One Dock\"/\"Maix Bit\" Board"
+                        },
+                        {
+                            "name": "Sipeed Maix Go Board"
+                        }
                     ],
                     "toolsDependencies": [
                         {
@@ -158,8 +196,12 @@
                     "archiveFileName": "Maixduino_core_v0.3.6_2.zip",
                     "size": "1063542",
                     "boards": [
-                        {"name": "Sipeed \"Maix One Dock\"/\"Maix Bit\" Board"},
-                        {"name": "Sipeed Maix Go Board"}
+                        {
+                            "name": "Sipeed \"Maix One Dock\"/\"Maix Bit\" Board"
+                        },
+                        {
+                            "name": "Sipeed Maix Go Board"
+                        }
                     ],
                     "toolsDependencies": [
                         {
@@ -184,8 +226,12 @@
                     "archiveFileName": "Maixduino_core_v0.3.3.zip",
                     "size": "1063528",
                     "boards": [
-                        {"name": "Sipeed \"Maix One Dock\"/\"Maix Bit\" Board"},
-                        {"name": "Sipeed Maix Go Board"}
+                        {
+                            "name": "Sipeed \"Maix One Dock\"/\"Maix Bit\" Board"
+                        },
+                        {
+                            "name": "Sipeed Maix Go Board"
+                        }
                     ],
                     "toolsDependencies": [
                         {
@@ -205,8 +251,7 @@
                 {
                     "name": "riscv64-unknown-elf-gcc",
                     "version": "8.2.0_20190409",
-                    "systems":
-                    [
+                    "systems": [
                         {
                             "url": "http://dl.cdn.sipeed.com/kendryte-toolchain-win-amd64-8.2.0-20190409.zip",
                             "checksum": "SHA-256:049CAA0DCC987BB67FCE9EF8B1F80824EFB8077223C10B27F2CED87C100A94F4",
@@ -233,8 +278,7 @@
                 {
                     "name": "riscv64-unknown-elf-gcc",
                     "version": "8.2.0",
-                    "systems":
-                    [
+                    "systems": [
                         {
                             "url": "http://dl.cdn.sipeed.com/win_toolchain_v8.2.0_20190213.zip",
                             "checksum": "SHA-256:9af21c336c8ccb405a10d715c480f29c5996d3932adf6955993ca4b10502b72b",
@@ -254,8 +298,7 @@
                 {
                     "name": "openocd",
                     "version": "0.2.3",
-                    "systems":
-                    [
+                    "systems": [
                         {
                             "url": "http://dl.cdn.sipeed.com/win_kendryte-openocd-0.2.3-win32.zip",
                             "checksum": "SHA-256:69f917de5535c807a9caaf8ec3e1411fc0ef3458ccf3354a11dde76031ca7b03",
@@ -275,8 +318,7 @@
                 {
                     "name": "kflash",
                     "version": "1.0.2",
-                    "systems":
-                    [
+                    "systems": [
                         {
                             "url": "http://dl.cdn.sipeed.com/win_kflash_py_v1.0.2.zip",
                             "checksum": "SHA-256:6DC3F31F51F7B041B56E47B4CCDF856854E2D48B0E5B11CEB66308BC961DDB75",
@@ -303,8 +345,7 @@
                 {
                     "name": "kflash",
                     "version": "1.0.1",
-                    "systems":
-                    [
+                    "systems": [
                         {
                             "url": "http://dl.cdn.sipeed.com/win_kflash_py_v1.0.1.zip",
                             "checksum": "SHA-256:18D379B82E0BECE04BB163E9E5ED6A00925E8632DA033833FD2070104C3D5DFD",
@@ -331,8 +372,7 @@
                 {
                     "name": "kflash",
                     "version": "1.0.0",
-                    "systems":
-                    [
+                    "systems": [
                         {
                             "url": "http://dl.cdn.sipeed.com/win_kflash_py_v1.0.0.zip",
                             "checksum": "SHA-256:e2c1f217bb62bd30fd7d5a43aa7931b1144098f6d13ff9ed2a0c428130aaeec1",
